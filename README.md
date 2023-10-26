@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey!
+
+My name is *Ihsan Fashbir* I'm a Web Developer from Indonesia 🇮🇩
 
 <!--
 **qwyzex/qwyzex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
